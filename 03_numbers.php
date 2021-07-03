@@ -14,10 +14,10 @@ echo $a/$b.'<br>';
 
 // Assignment with math operators
 
-/*$a += $b; echo $a.'<br>';
+$a += $b; echo $a.'<br>';
 $a -= $b; echo $a.'<br>';
 $a -= $b; echo $a.'<br>';
-$a *= $b; echo $a.'<br>';*/
+$a *= $b; echo $a.'<br>';
 
 // Increment operator
 
